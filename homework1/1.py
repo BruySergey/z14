@@ -1,3 +1,4 @@
+
 a = int(input('N1 = '))
 b = int(input('N2 = '))
 c = int(input('N3 = '))
